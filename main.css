@@ -15,25 +15,25 @@ div {
  }
 
  #Orange {
-   borer-top-color: #ffa500;
+   border-top-color: #ffa500;
  }
  
 #Yellow {
-   borer-top-color: #ff0; 
+   border-top-color: #ff0; 
  }
 
 #Green {
-   borer-top-color: #00bc3f;
+   border-top-color: #00bc3f;
 }
  
 #Blue {
-   borer-top-color: #06f; 
+   border-top-color: #06f; 
 }
  
 #Indigo {
-   borer-top-color: #8a2be2;
+   border-top-color: #8a2be2;
 }
  
 #Violet {
-   borer-top-color: #d300c9
+   border-top-color: #d300c9
 }
